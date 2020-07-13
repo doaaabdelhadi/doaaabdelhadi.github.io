@@ -8,7 +8,7 @@ body {
   height: 2000px;
 } */
 body {
-  background: url('https://raw.githubusercontent.com/doaaabdelhadi/doaaabdelhadi.github.io/master/img/bc.jpg?token=AHFH2OVUVAKKRTI6UHJJ7VS7CU5PA') no-repeat center center fixed;
+  background: url('https://raw.githubusercontent.com/doaaabdelhadi/doaaabdelhadi.github.io/master/img/bc1.jpg?token=AHFH2ORHVV6COKYLOJX4KK27CU7EU') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -20,7 +20,11 @@ body {
   
 
 }
+.intro p{
+  color: aliceblue;
+  
 
+}
 /* .navbar-brand span{
   font-size: 22px;
 }
