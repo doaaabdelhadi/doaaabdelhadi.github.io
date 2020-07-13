@@ -7,23 +7,45 @@ colors #444546
 body {
   height: 2000px;
 } */
+
+html{
+  font-family: 'Lucida Console', Monospace;
+  
+}
 body {
-  background: url('https://raw.githubusercontent.com/doaaabdelhadi/doaaabdelhadi.github.io/master/img/bc1.jpg?token=AHFH2ORHVV6COKYLOJX4KK27CU7EU') no-repeat center center fixed;
+  background: url('https://lh3.googleusercontent.com/kQyXkrnBLpuU0p57dW2b8xglAYYMoanS2LzRN0fp5K6tUZUJ2nCcV5QWkIyz63H6ZbZlqCXfDmQq7xZOZ1XRy00_akyRUbviSj2MBWM7esFdy8KzZmD5Z9RLWsHS2rzhvzAmIAd0iwDB_K_9NGIU1V43WwvVj4m5Fzb90gSTgK5g-KvTlDQ4s4-3wiRoN3_Br8aJ6gYJ4xHhMc7awJeENt-wdGM_7XHP1ZztK4uygMmpJym0Fvl-aA1VuB__bQ7GvjF398lusVP3RRrAgXoE6lZs0dghW-AFLyOCR2VnHwRoJ6N9BU8ln1PKzckwDIb9nI_MXgnjwAQUbs_BhGy7fAPJMYgKwjErSMGJzObedvp2YiMVBzlk5Ya8-93YXPkG9t60Pok1MWghAr49MBeQGZc1o4LWH5rr5zkhpzEGy1_ZoNKOqg94lM-KyDCWOL9HJNHYzDk8VUr3U_549o340YtIwkG9TwIfqO8theZb89rQEGXrerU3oNgoM8f2KY6O0myPvdZSxEqHOx2xCSKp79L9MVEjKb8UuLzmsGghg-x-f5SMDUtM7NF73LbmF0aIwLbU08iNoDDgaO5oL7n4UxsUuRSjnprTVWEqdCTcDc9WpsVaaJdDZzj8fNlDOQBBtxXtvrXQbRW_a8fa1PRS3I_Fk19qNyVC1Iy4W8jYgwRFCJy8n1xHBqvE9UvP=w937-h625-no?authuser=2') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
 
+
 .intro h1{
-  color: aliceblue;
+  color: orange;
+  text-align: center;
   
 
 }
 .intro p{
-  color: aliceblue;
+  color:orange;
+  font-size: 22px;
+  text-align: center;
   
 
+}
+.icons-social{
+  text-align: center;
+}
+
+.icons-social i{
+  font-size: 2em;
+  padding: 10px;
+  
+}
+.icons-social a{
+  color:aliceblue;
+  
 }
 /* .navbar-brand span{
   font-size: 22px;
