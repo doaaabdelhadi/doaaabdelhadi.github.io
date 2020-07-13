@@ -1,0 +1,47 @@
+
+/*
+colors #444546
+
+*/
+/*
+body {
+  height: 2000px;
+} */
+body {
+  background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.navbar-brand span{
+  font-size: 22px;
+}
+
+.navbar-brand span:first-child {
+  font-weight: bold;
+  color: orange;
+}
+.navbar-brand span:last-child{
+  color:skyblue;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+  text-transform: uppercase;
+  color: #7eabff;
+  font-size: 15px;
+  margin-left:15px;
+  font-weight: 500;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+  color:  #7eabff !important;
+}
+.blog{
+  padding: 70px;;
+}
+
+.post{
+  padding: 70px;;
+}

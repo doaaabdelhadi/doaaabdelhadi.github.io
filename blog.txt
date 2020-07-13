@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title> DoaaAbdelhadi </title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="fontawesome/css/fontawesome.css">
+    <link href="fontawesome/css/brands.css" rel="stylesheet">
+    <link href="fontawesome/css/solid.css" rel="stylesheet">
+
+
+
+  </head>
+  <body>
+    
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+
+      <a class="navbar-brand" href="#">
+        <span> Doaa</span><span>Abdelhadi</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="work.html">Work</a>
+          </li>
+
+        </ul>
+
+      </div>
+    </div>
+</nav>
+    <!-- end nav -->
+
+<div class='blog'>
+  <div>
+    <h2>
+      Writting is open the mind
+    </h2>
+    <p>
+      "I write to discover what I know."
+      <span> <i>Flannery O'Connor</i> </span>
+    </p>
+  </div>
+  <div class="row">
+    <div class="col-sm-6 mb-3">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">What happens if robots take the jobs?</h5>
+          <p class="card-text">
+            I will discuss interesting points, the major points which will discuss. The emerging technologies 
+            talked about in the report, which one do I believe a high potential of taking over people’s jobs?
+          </p>
+          <a href="#" class="btn btn-primary">read</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Special title treatment</h5>
+          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <a href="#" class="btn btn-primary">read</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Special title treatment</h5>
+          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <a href="#" class="btn btn-primary">read</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Special title treatment</h5>
+          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <a href="#" class="btn btn-primary">read</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script src="js/jquery-3.5.1.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
+  </body>
+</html>
